@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/ReactApp/static/css/main.cac54282.css",
+    "main.js": "/ReactApp/static/js/main.e647ddea.js",
+    "static/css/890.b0edfdce.chunk.css": "/ReactApp/static/css/890.b0edfdce.chunk.css",
+    "static/js/890.d38a9ab6.chunk.js": "/ReactApp/static/js/890.d38a9ab6.chunk.js",
+    "static/media/01.jpg": "/ReactApp/static/media/01.29b25be31315dad3ce4e.jpg",
+    "static/media/neitral.jpg": "/ReactApp/static/media/neitral.c1d0a8d1869b3fbdb9ab.jpg",
+    "static/media/han-solo.mp4": "/ReactApp/static/media/han-solo.db435084c403f6b37d4d.mp4",
+    "static/media/light.png": "/ReactApp/static/media/light.265a88369c38084cdd56.png",
+    "static/media/dark.jpg": "/ReactApp/static/media/dark.e0f8cab78e4bdd7db45d.jpg",
+    "static/media/light.jpg": "/ReactApp/static/media/light.eebc52171cd4ac0278ca.jpg",
+    "static/media/02.png": "/ReactApp/static/media/02.c4555f635b932b7d439a.png",
+    "static/media/dark.png": "/ReactApp/static/media/dark.80531b0460391b6ba639.png",
+    "static/media/neitral.svg": "/ReactApp/static/media/neitral.4c5bd3a7cfa94415ea2a91e6ad50121c.svg",
+    "static/media/favorite.svg": "/ReactApp/static/media/favorite.8bb442dc05fcd30ef25d996ea8fe331f.svg",
+    "static/media/favoriteFill.svg": "/ReactApp/static/media/favoriteFill.743a4770dba887265e202c68d4a29a8b.svg",
+    "static/media/loader-black.svg": "/ReactApp/static/media/loader-black.78b64763e580cefeff6874e08623ffb7.svg",
+    "static/media/loader-blue.svg": "/ReactApp/static/media/loader-blue.0af7332830cec9bfdf08a8929450f60b.svg",
+    "static/media/loader-white.svg": "/ReactApp/static/media/loader-white.54e7838d8f4781747740069c89d6e67c.svg",
+    "static/media/disRemoveIcon.svg": "/ReactApp/static/media/disRemoveIcon.d714c0a908e820f032e2810c53b9c364.svg",
+    "static/media/removeIcon.svg": "/ReactApp/static/media/removeIcon.d714c0a908e820f032e2810c53b9c364.svg",
+    "static/media/markIcon.svg": "/ReactApp/static/media/markIcon.fdb453ebce009e549e514b521a6344c3.svg",
+    "static/media/back.svg": "/ReactApp/static/media/back.c00d4fe2d7b9e091557d251423660d3e.svg",
+    "index.html": "/ReactApp/index.html",
+    "main.cac54282.css.map": "/ReactApp/static/css/main.cac54282.css.map",
+    "main.e647ddea.js.map": "/ReactApp/static/js/main.e647ddea.js.map",
+    "890.b0edfdce.chunk.css.map": "/ReactApp/static/css/890.b0edfdce.chunk.css.map",
+    "890.d38a9ab6.chunk.js.map": "/ReactApp/static/js/890.d38a9ab6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cac54282.css",
+    "static/js/main.e647ddea.js"
+  ]
+}
